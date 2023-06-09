@@ -1,0 +1,30 @@
+17:18:59.635 [main] INFO  i.g.c.config.GatlingConfiguration$ - Gatling will try to load 'gatling.conf' config file as ClassLoader resource.
+17:19:00.059 [GatlingSystem-akka.actor.default-dispatcher-4] INFO  akka.event.slf4j.Slf4jLogger - Slf4jLogger started
+17:19:00.527 [main] ERROR io.gatling.app.Gatling$ - Run crashed
+java.lang.IllegalArgumentException: Could not locate feeder file: Resource articles.csv not found
+	at io.gatling.core.feeder.FeederSupport.separatedValues(FeederSupport.scala:52)
+	at io.gatling.core.feeder.FeederSupport.separatedValues$(FeederSupport.scala:47)
+	at io.gatling.core.Predef$.separatedValues(Predef.scala:24)
+	at io.gatling.core.feeder.FeederSupport.csv(FeederSupport.scala:36)
+	at io.gatling.core.feeder.FeederSupport.csv$(FeederSupport.scala:35)
+	at io.gatling.core.Predef$.csv(Predef.scala:24)
+	at performance.PerfTest.<init>(PerfTest.scala:16)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+	at java.base/java.lang.Class.newInstance(Class.java:584)
+	at io.gatling.app.SimulationClass$Scala.params(SimulationClass.scala:31)
+	at io.gatling.app.Runner.run0(Runner.scala:62)
+	at io.gatling.app.Runner.run(Runner.scala:49)
+	at io.gatling.app.Gatling$.start(Gatling.scala:87)
+	at io.gatling.app.Gatling$.fromArgs(Gatling.scala:49)
+	at io.gatling.app.Gatling$.main(Gatling.scala:38)
+	at io.gatling.app.Gatling.main(Gatling.scala)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at io.gatling.plugin.util.ForkMain.runMain(ForkMain.java:67)
+	at io.gatling.plugin.util.ForkMain.main(ForkMain.java:35)
+17:19:00.555 [GatlingSystem-akka.actor.default-dispatcher-4] INFO  akka.actor.CoordinatedShutdown - Running CoordinatedShutdown with reason [ActorSystemTerminateReason]
