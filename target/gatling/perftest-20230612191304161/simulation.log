@@ -1,0 +1,449 @@
+RUN	performance.PerfTest	perftest	1686597184161	 	3.7.4
+USER	Create and delete article	START	1686597184227
+REQUEST		POST /api/users/login	1686597184284	1686597184627	OK	 
+REQUEST		Title requested title-07	1686597184739	1686597185085	OK	 
+USER	Create and delete article	END	1686597185090
+USER	Create and delete article	START	1686597188211
+REQUEST		Title requested title-08	1686597188257	1686597188565	OK	 
+USER	Create and delete article	END	1686597188567
+USER	Create and delete article	START	1686597189210
+REQUEST		Title requested title-09	1686597189257	1686597189570	OK	 
+USER	Create and delete article	END	1686597189573
+USER	Create and delete article	START	1686597190210
+REQUEST		Title requested title-07	1686597190246	1686597190526	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597190551
+USER	Create and delete article	START	1686597191210
+REQUEST		Title requested title-08	1686597191244	1686597191529	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597191531
+USER	Create and delete article	START	1686597191710
+REQUEST		Title requested title-09	1686597191745	1686597192010	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597192012
+USER	Create and delete article	START	1686597192211
+REQUEST		Title requested title-07	1686597192243	1686597192513	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597192515
+USER	Create and delete article	START	1686597192709
+REQUEST		Title requested title-08	1686597192740	1686597193010	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597193011
+USER	Create and delete article	START	1686597193210
+REQUEST		Title requested title-09	1686597193239	1686597193513	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597193515
+USER	Create and delete article	START	1686597193711
+REQUEST		Title requested title-07	1686597193740	1686597194009	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597194010
+USER	Create and delete article	START	1686597194211
+REQUEST		Title requested title-08	1686597194232	1686597194499	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597194500
+USER	Create and delete article	START	1686597194711
+REQUEST		Title requested title-09	1686597194728	1686597195005	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597195005
+USER	Create and delete article	START	1686597195211
+REQUEST		Title requested title-07	1686597195239	1686597195504	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597195505
+USER	Create and delete article	START	1686597195710
+REQUEST		Title requested title-08	1686597195735	1686597196013	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597196014
+USER	Create and delete article	START	1686597196210
+REQUEST		Title requested title-09	1686597196236	1686597196499	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597196500
+USER	Create and delete article	START	1686597196710
+REQUEST		Title requested title-07	1686597196736	1686597197014	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597197015
+USER	Create and delete article	START	1686597197210
+REQUEST		Title requested title-08	1686597197250	1686597197517	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597197518
+USER	Create and delete article	START	1686597197710
+REQUEST		Title requested title-09	1686597197735	1686597198003	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597198004
+USER	Create and delete article	START	1686597198210
+REQUEST		Title requested title-07	1686597198234	1686597198511	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597198513
+USER	Create and delete article	START	1686597198711
+REQUEST		Title requested title-08	1686597198735	1686597199010	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597199011
+USER	Create and delete article	START	1686597199210
+REQUEST		Title requested title-09	1686597199233	1686597199497	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597199498
+USER	Create and delete article	START	1686597199709
+REQUEST		Title requested title-07	1686597199733	1686597200136	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597200137
+USER	Create and delete article	START	1686597200211
+REQUEST		Title requested title-08	1686597200233	1686597200519	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597200520
+USER	Create and delete article	START	1686597200710
+REQUEST		Title requested title-09	1686597200732	1686597200994	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597200995
+USER	Create and delete article	START	1686597201211
+REQUEST		Title requested title-07	1686597201229	1686597201498	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597201500
+USER	Create and delete article	START	1686597201710
+REQUEST		Title requested title-08	1686597201732	1686597202009	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597202011
+USER	Create and delete article	START	1686597202210
+REQUEST		Title requested title-09	1686597202228	1686597202486	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597202487
+USER	Create and delete article	START	1686597202711
+REQUEST		Title requested title-07	1686597202735	1686597203011	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597203012
+USER	Create and delete article	START	1686597203211
+REQUEST		Title requested title-08	1686597203233	1686597203506	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597203507
+USER	Create and delete article	START	1686597203543
+REQUEST		Title requested title-09	1686597203564	1686597203843	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597203844
+USER	Create and delete article	START	1686597203876
+REQUEST		Title requested title-07	1686597203892	1686597204155	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597204156
+USER	Create and delete article	START	1686597204211
+USER	Create and delete article	START	1686597204459
+REQUEST		Title requested title-08	1686597204233	1686597204506	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597204506
+USER	Create and delete article	START	1686597204709
+REQUEST		Title requested title-09	1686597204492	1686597204760	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597204761
+USER	Create and delete article	START	1686597204960
+REQUEST		Title requested title-07	1686597204729	1686597205001	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597205001
+USER	Create and delete article	START	1686597205211
+REQUEST		Title requested title-08	1686597204978	1686597205241	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597205242
+USER	Create and delete article	START	1686597205460
+REQUEST		Title requested title-09	1686597205232	1686597205494	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597205495
+USER	Create and delete article	START	1686597205710
+REQUEST		Title requested title-07	1686597205480	1686597205739	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597205740
+USER	Create and delete article	START	1686597205960
+REQUEST		Title requested title-08	1686597205732	1686597205995	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597205995
+USER	Create and delete article	START	1686597206210
+REQUEST		Title requested title-09	1686597205979	1686597206246	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597206246
+USER	Create and delete article	START	1686597206460
+REQUEST		Title requested title-07	1686597206229	1686597206489	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597206489
+USER	Create and delete article	START	1686597206710
+REQUEST		Title requested title-08	1686597206480	1686597206743	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597206743
+USER	Create and delete article	START	1686597206961
+REQUEST		Title requested title-09	1686597206726	1686597206993	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597206994
+USER	Create and delete article	START	1686597207211
+REQUEST		Title requested title-07	1686597206976	1686597207238	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597207238
+USER	Create and delete article	START	1686597207460
+REQUEST		Title requested title-08	1686597207231	1686597207494	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597207495
+USER	Create and delete article	START	1686597207709
+REQUEST		Title requested title-09	1686597207474	1686597207731	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597207731
+USER	Create and delete article	START	1686597207960
+REQUEST		Title requested title-07	1686597207730	1686597207981	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597207982
+USER	Create and delete article	START	1686597208210
+REQUEST		Title requested title-08	1686597207978	1686597208247	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597208247
+USER	Create and delete article	START	1686597208410
+REQUEST		Title requested title-09	1686597208229	1686597208492	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597208493
+USER	Create and delete article	START	1686597208611
+REQUEST		Title requested title-07	1686597208438	1686597208704	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597208705
+USER	Create and delete article	START	1686597208811
+REQUEST		Title requested title-08	1686597208630	1686597208919	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597208919
+USER	Create and delete article	START	1686597209010
+REQUEST		Title requested title-09	1686597208831	1686597209097	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597209097
+USER	Create and delete article	START	1686597209210
+REQUEST		Title requested title-07	1686597209030	1686597209299	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597209300
+USER	Create and delete article	START	1686597209376
+REQUEST		Title requested title-08	1686597209229	1686597209498	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597209499
+USER	Create and delete article	START	1686597209543
+REQUEST		Title requested title-09	1686597209395	1686597209662	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597209663
+USER	Create and delete article	START	1686597209710
+REQUEST		Title requested title-07	1686597209555	1686597209813	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597209814
+USER	Create and delete article	START	1686597209876
+REQUEST		Title requested title-08	1686597209723	1686597209997	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597209997
+USER	Create and delete article	START	1686597210043
+REQUEST		Title requested title-09	1686597209893	1686597210164	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597210165
+USER	Create and delete article	START	1686597210210
+REQUEST		Title requested title-07	1686597210056	1686597210324	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597210325
+USER	Create and delete article	START	1686597210376
+REQUEST		Title requested title-08	1686597210228	1686597210502	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597210502
+USER	Create and delete article	START	1686597210543
+REQUEST		Title requested title-09	1686597210389	1686597210661	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597210661
+USER	Create and delete article	START	1686597210710
+REQUEST		Title requested title-07	1686597210556	1686597210813	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597210814
+USER	Create and delete article	START	1686597210876
+REQUEST		Title requested title-08	1686597210721	1686597210989	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597210990
+USER	Create and delete article	START	1686597211043
+REQUEST		Title requested title-09	1686597210888	1686597211163	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597211164
+USER	Create and delete article	START	1686597211210
+REQUEST		Title requested title-07	1686597211056	1686597211325	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597211326
+USER	Create and delete article	START	1686597211376
+REQUEST		Title requested title-08	1686597211223	1686597211509	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597211510
+USER	Create and delete article	START	1686597211543
+REQUEST		Title requested title-09	1686597211389	1686597211657	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597211658
+USER	Create and delete article	START	1686597211709
+REQUEST		Title requested title-07	1686597211562	1686597211828	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597211829
+USER	Create and delete article	START	1686597211876
+REQUEST		Title requested title-08	1686597211727	1686597211992	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597211993
+USER	Create and delete article	START	1686597212043
+REQUEST		Title requested title-09	1686597211893	1686597212165	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597212166
+USER	Create and delete article	START	1686597212210
+REQUEST		Title requested title-07	1686597212061	1686597212337	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597212338
+USER	Create and delete article	START	1686597212376
+REQUEST		Title requested title-08	1686597212226	1686597212495	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597212496
+USER	Create and delete article	START	1686597212543
+REQUEST		Title requested title-09	1686597212392	1686597212669	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597212670
+USER	Create and delete article	START	1686597212709
+REQUEST		Title requested title-07	1686597212557	1686597212828	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597212829
+USER	Create and delete article	START	1686597212876
+REQUEST		Title requested title-08	1686597212725	1686597212990	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597212990
+USER	Create and delete article	START	1686597213042
+REQUEST		Title requested title-09	1686597212893	1686597213151	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597213152
+USER	Create and delete article	START	1686597213210
+REQUEST		Title requested title-07	1686597213052	1686597213330	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597213330
+USER	Create and delete article	START	1686597213352
+REQUEST		Title requested title-08	1686597213224	1686597213489	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597213490
+USER	Create and delete article	START	1686597213494
+REQUEST		Title requested title-09	1686597213364	1686597213634	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597213634
+USER	Create and delete article	START	1686597213637
+REQUEST		Title requested title-07	1686597213506	1686597213763	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597213764
+USER	Create and delete article	START	1686597213781
+REQUEST		Title requested title-08	1686597213650	1686597213908	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597213909
+USER	Create and delete article	START	1686597213924
+USER	Create and delete article	START	1686597214067
+REQUEST		Title requested title-09	1686597213798	1686597214071	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597214071
+REQUEST		Title requested title-07	1686597213938	1686597214203	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597214204
+USER	Create and delete article	START	1686597214210
+USER	Create and delete article	START	1686597214334
+REQUEST		Title requested title-08	1686597214082	1686597214355	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597214355
+USER	Create and delete article	START	1686597214459
+REQUEST		Title requested title-09	1686597214224	1686597214494	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597214494
+USER	Create and delete article	START	1686597214585
+REQUEST		Title requested title-07	1686597214346	1686597214622	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597214623
+USER	Create and delete article	START	1686597214710
+REQUEST		Title requested title-08	1686597214472	1686597214767	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597214767
+USER	Create and delete article	START	1686597214834
+REQUEST		Title requested title-09	1686597214600	1686597214876	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597214877
+USER	Create and delete article	START	1686597214959
+REQUEST		Title requested title-07	1686597214721	1686597214990	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597214990
+USER	Create and delete article	START	1686597215084
+REQUEST		Title requested title-08	1686597214848	1686597215115	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597215116
+USER	Create and delete article	START	1686597215209
+REQUEST		Title requested title-09	1686597214973	1686597215242	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597215243
+USER	Create and delete article	START	1686597215335
+REQUEST		Title requested title-07	1686597215100	1686597215360	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597215361
+USER	Create and delete article	START	1686597215460
+REQUEST		Title requested title-08	1686597215223	1686597215495	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597215496
+USER	Create and delete article	START	1686597215585
+REQUEST		Title requested title-09	1686597215345	1686597215625	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597215627
+USER	Create and delete article	START	1686597215710
+REQUEST		Title requested title-07	1686597215473	1686597215754	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597215754
+USER	Create and delete article	START	1686597215835
+REQUEST		Title requested title-08	1686597215597	1686597215870	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597215870
+USER	Create and delete article	START	1686597215960
+REQUEST		Title requested title-09	1686597215727	1686597215996	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597215997
+USER	Create and delete article	START	1686597216084
+REQUEST		Title requested title-07	1686597215859	1686597216140	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597216140
+USER	Create and delete article	START	1686597216209
+REQUEST		Title requested title-08	1686597215974	1686597216240	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597216240
+USER	Create and delete article	START	1686597216334
+REQUEST		Title requested title-09	1686597216102	1686597216362	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597216363
+USER	Create and delete article	START	1686597216460
+REQUEST		Title requested title-07	1686597216219	1686597216475	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597216475
+USER	Create and delete article	START	1686597216584
+REQUEST		Title requested title-08	1686597216350	1686597216605	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597216605
+USER	Create and delete article	START	1686597216710
+REQUEST		Title requested title-09	1686597216473	1686597216736	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597216737
+USER	Create and delete article	START	1686597216834
+REQUEST		Title requested title-07	1686597216597	1686597216865	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597216865
+USER	Create and delete article	START	1686597216960
+REQUEST		Title requested title-08	1686597216725	1686597217011	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597217011
+USER	Create and delete article	START	1686597217085
+REQUEST		Title requested title-09	1686597216846	1686597217112	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597217113
+USER	Create and delete article	START	1686597217209
+REQUEST		Title requested title-07	1686597216973	1686597217240	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597217240
+USER	Create and delete article	START	1686597217336
+REQUEST		Title requested title-08	1686597217101	1686597217365	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597217366
+USER	Create and delete article	START	1686597217460
+REQUEST		Title requested title-09	1686597217226	1686597217484	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597217484
+USER	Create and delete article	START	1686597217585
+REQUEST		Title requested title-07	1686597217348	1686597217608	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597217608
+USER	Create and delete article	START	1686597217710
+REQUEST		Title requested title-08	1686597217473	1686597217738	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597217738
+USER	Create and delete article	START	1686597217835
+REQUEST		Title requested title-09	1686597217595	1686597217862	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597217862
+USER	Create and delete article	START	1686597217961
+REQUEST		Title requested title-07	1686597217722	1686597217997	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597217997
+USER	Create and delete article	START	1686597218085
+REQUEST		Title requested title-08	1686597217854	1686597218129	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597218129
+USER	Create and delete article	START	1686597218211
+REQUEST		Title requested title-09	1686597217978	1686597218245	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597218245
+USER	Create and delete article	START	1686597218321
+REQUEST		Title requested title-07	1686597218101	1686597218364	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597218364
+USER	Create and delete article	START	1686597218432
+REQUEST		Title requested title-08	1686597218229	1686597218513	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597218513
+USER	Create and delete article	START	1686597218543
+REQUEST		Title requested title-09	1686597218335	1686597218615	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597218616
+USER	Create and delete article	START	1686597218654
+REQUEST		Title requested title-07	1686597218450	1686597218735	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597218735
+USER	Create and delete article	START	1686597218765
+REQUEST		Title requested title-08	1686597218555	1686597218825	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597218826
+USER	Create and delete article	START	1686597218876
+REQUEST		Title requested title-09	1686597218666	1686597218930	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597218930
+USER	Create and delete article	START	1686597218987
+REQUEST		Title requested title-07	1686597218782	1686597219047	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597219047
+USER	Create and delete article	START	1686597219098
+REQUEST		Title requested title-08	1686597218888	1686597219148	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597219149
+USER	Create and delete article	START	1686597219210
+REQUEST		Title requested title-09	1686597219004	1686597219285	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597219285
+USER	Create and delete article	START	1686597219309
+REQUEST		Title requested title-07	1686597219108	1686597219373	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597219373
+USER	Create and delete article	START	1686597219410
+REQUEST		Title requested title-08	1686597219225	1686597219489	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597219490
+USER	Create and delete article	START	1686597219510
+REQUEST		Title requested title-09	1686597219319	1686597219581	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597219582
+USER	Create and delete article	START	1686597219610
+REQUEST		Title requested title-07	1686597219420	1686597219685	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597219686
+USER	Create and delete article	START	1686597219710
+USER	Create and delete article	START	1686597219810
+REQUEST		Title requested title-08	1686597219537	1686597219814	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597219814
+REQUEST		Title requested title-09	1686597219622	1686597219895	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597219896
+USER	Create and delete article	START	1686597219910
+REQUEST		Title requested title-07	1686597219722	1686597219985	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597219985
+USER	Create and delete article	START	1686597220010
+REQUEST		Title requested title-08	1686597219822	1686597220092	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597220092
+USER	Create and delete article	START	1686597220110
+REQUEST		Title requested title-09	1686597219921	1686597220187	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597220188
+USER	Create and delete article	START	1686597220210
+REQUEST		Title requested title-07	1686597220020	1686597220277	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597220277
+USER	Create and delete article	START	1686597220310
+REQUEST		Title requested title-08	1686597220121	1686597220384	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597220385
+USER	Create and delete article	START	1686597220409
+REQUEST		Title requested title-09	1686597220220	1686597220488	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597220488
+USER	Create and delete article	START	1686597220510
+REQUEST		Title requested title-07	1686597220322	1686597220577	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597220577
+USER	Create and delete article	START	1686597220610
+REQUEST		Title requested title-08	1686597220422	1686597220698	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597220698
+USER	Create and delete article	START	1686597220710
+REQUEST		Title requested title-09	1686597220522	1686597220792	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597220792
+USER	Create and delete article	START	1686597220810
+REQUEST		Title requested title-07	1686597220621	1686597220885	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597220885
+USER	Create and delete article	START	1686597220910
+REQUEST		Title requested title-08	1686597220724	1686597220994	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597220994
+USER	Create and delete article	START	1686597221010
+REQUEST		Title requested title-09	1686597220820	1686597221085	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597221085
+USER	Create and delete article	START	1686597221110
+REQUEST		Title requested title-07	1686597220919	1686597221173	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597221173
+REQUEST		Title requested title-08	1686597221022	1686597221288	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597221288
+REQUEST		Title requested title-09	1686597221123	1686597221390	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597221390
+USER	Create and delete article	START	1686597226210
+REQUEST		Title requested title-07	1686597226222	1686597226501	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597226501
+USER	Create and delete article	START	1686597227210
+REQUEST		Title requested title-08	1686597227223	1686597227490	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597227490
+USER	Create and delete article	START	1686597228210
+REQUEST		Title requested title-09	1686597228226	1686597228494	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597228495
+USER	Create and delete article	START	1686597229210
+REQUEST		Title requested title-07	1686597229222	1686597229485	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597229486
+USER	Create and delete article	START	1686597230210
+REQUEST		Title requested title-08	1686597230222	1686597230507	KO	conduitApp/performance/createArticle.feature:22 status 200
+USER	Create and delete article	END	1686597230507

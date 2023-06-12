@@ -6,11 +6,11 @@ Background: connect to db
 
 
 Scenario: Seed database with a new Job
-    * eval dbHandler.addNewJobWithName("QA8")
+    * eval dbHandler.addNewJobWithName("QA9")
 
 
 Scenario: Get level for Job
-    * def level = dbHandler.getMinAndMaxLevelsForJob("QA8")    
+    * def level = dbHandler.getMinAndMaxLevelsForJob("QA9")    
     * print level.minLvL 
     * print level.maxLvL
     And match level.minLvL == '80'
